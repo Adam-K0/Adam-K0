@@ -1,16 +1,32 @@
-## Hi there 👋
+# 🧑‍💻 About Me:
+Sophmore at UNL, majoring in Computer Science<br>
 
-<!--
-**Adam-K0/Adam-K0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Kaggle](https://www.kaggle.com/adamkhattak) | [LinkedIn](https://www.linkedin.com/in/adam-khattak-18646a244)
 
-Here are some ideas to get you started:
+# 🛠️ Working On:
+- 📈 Counter Strike Skins Trading
+- 🚋 Train Detection System
+- 🏃 Running Data Visualizatoin
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🧰 Tool kit:
+<h3>Languages</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="BASH" width="50" height="50"/>
+</div>
+<h3>Operations</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50" height="50"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" title="Github Actions" width="50" height="50"/>
+</div>
+<h3>Frameworks</h3>
+</div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="50" height="50"/>
+</div>
+<h3>Misc</h3>
+<div>
+<img src="https://github.com/devicons/devicon/blob/master/icons/fusion/fusion-original.svg" title="Fusion360" width="50" height="50"/>
+</div>
