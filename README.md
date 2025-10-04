@@ -22,11 +22,7 @@ Sophmore at UNL, majoring in Computer Science<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" title="Github Actions" width="50" height="50"/>
 </div>
-<h3>Frameworks</h3>
+<h3>Frameworks/Libraries</h3>
 </div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" width="50" height="50"/>
-</div>
-<h3>Misc</h3>
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/fusion/fusion-original.svg" title="Fusion360" width="50" height="50"/>
 </div>
