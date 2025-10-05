@@ -6,7 +6,7 @@ Sophmore at UNL, majoring in Computer Science<br>
 # 🛠️ Working On:
 - 📈 Counter Strike Skins Trading
 - 🚋 Train Detection System
-- 🏃 Running Data Visualizatoin
+- 🏃 Running Data Visualization
 
 # 🧰 Tool kit:
 <h3>Languages</h3>
