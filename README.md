@@ -1,7 +1,7 @@
 # 🧑‍💻 About Me:
 Sophmore at UNL, majoring in Computer Science<br>
 
-[Kaggle](https://www.kaggle.com/adamkhattak) | [LinkedIn](https://www.linkedin.com/in/adam-khattak-18646a244)
+[Kaggle](https://www.kaggle.com/adamkhattak)
 
 # 🛠️ Working On:
 - 📈 Counter Strike Skins Trading
