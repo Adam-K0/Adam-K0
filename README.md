@@ -20,7 +20,6 @@ Sophmore at UNL, majoring in Computer Science<br>
 <div>
 <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="50" height="50"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" width="50" height="50"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-original-wordmark.svg" title="Github Actions" width="50" height="50"/>
 </div>
 <h3>Frameworks/Libraries</h3>
 </div>
