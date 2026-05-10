@@ -1,8 +1,3 @@
-# 🧑‍💻 About Me:
-Sophmore at UNL, majoring in Computer Science<br>
-
-[Kaggle](https://www.kaggle.com/adamkhattak)
-
 # 🛠️ Building:
 - 📈 Counter Strike Skins Trading System
 - 🚋 Sensor Suite to Detect Trains 
